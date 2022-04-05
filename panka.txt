@@ -4,7 +4,7 @@ what is appche tomcat?
 Appche tomcat is a server, it is use to devlop java application to rum on server.
 light weight,opensource.
 
-EX:fish.
+EX:fishtank.
 
 >>>>>installation of appche tomcat server.
 serch appche tomcat download after that chose the version  >>>>32-bit/64-bit Windows Service Installer (pgp, sha512)
